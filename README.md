@@ -4,7 +4,7 @@ Based on Python for Everybody Specialization
 
 ### Goals
 
--   Complete the # Learning Python for Data Analysis and Visualization
+-   Complete the Learning Python for Data Analysis and Visualization
 
 ### Boundaries / Scope
 
