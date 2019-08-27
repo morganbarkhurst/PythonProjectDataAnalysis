@@ -1,12 +1,10 @@
-# PythonProjectDataAnalysis
-
 ## Personal Project Problem Statement
 
 Based on Python for Everybody Specialization
 
 ### Goals
 
--   Complete the Python for Everybody Specialization
+-   Complete the # Learning Python for Data Analysis and Visualization
 
 ### Boundaries / Scope
 
