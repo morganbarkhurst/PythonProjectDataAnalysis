@@ -1,6 +1,6 @@
 # PythonProjectDataAnalysis
 
-## Example Personal Project Problem Statement
+## Personal Project Problem Statement
 
 Based on Python for Everybody Specialization
 
