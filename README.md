@@ -1,50 +1,50 @@
 ## Personal Project Problem Statement
 
-Based on Python for Everybody Specialization
+Based on Python for Data Science and Machine Learning Bootcamp.
 
 ### Goals
 
--   Complete the Learning Python for Data Analysis and Visualization
+-   Complete the Python for Data Science and Machine Learning Bootcamp.
 
 ### Boundaries / Scope
 
--   Complete Course 1 Programming for Everybody (Getting Started with Python)
--   Complete Course 2 Python Data Structures
+-   Complete Section 1 through 27.
 
 ### Success criteria
 
--   My own application for data retrieval and processing.
+-   Ability to speak about data analysis using pythoon knowledgably.
 -   Weekly work log with screenshots and summaries to demonstrate activity.
 
 ### Constraints
 
--   I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
+-   I will not be paying for additional software to use, so I will be limited to free software.
 
 ### Assumptions
 
 -   The courses will be available for the duration of the semester.
--   I have all required software.
--   I can skip the Installing and Using Python units.
+-   I will have access to all required software.
+-   I will have enough background knowlege to successfully complete this bootcamp course.
 
 ### Stakeholders
 
--   Professor - for grade
--   Parents - investing in my education and future success, want to make them proud
--   Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
+-   Professor - for the grade
+-   Parents - investing in my education and future success, not wanting to disappoint them
+-   Perspective Employers - certificate will be added to my professional portfolio which could help with getting a job
+-   Research Contacts - help me make connections and have ability to communicate with professionals
 
 ### Timeline
 
 Week:
 
-1.  Chapter One - Why we Program? (3 hours)
-2.  Chapter Two: Variables and Expressions (3 hours)
-3.  Chapter Three: Conditional Code (3 hours)
-4.  Chapter Five: Loops and Iteration (3 hours)
-5.  Chapter Four: Functions (2 hours)
-6.  Chapter Seven: Files (3 hours)
-7.  Chapter Eight: Lists (3 hours)
-8.  Chapter Six: Strings (3 hours)
-9.  Chapter Nine: Dictionaries (3 hours)
-10.  Chapter Ten: Tuples (2 hours)
-11.  Graduation and work on independent program (2 hours)
-12.  Complete independent program (2 hours)
+1.  Section 1 - 3: Intro, Setup, and Jupyter (2 hours)
+2.  Section 4 - 5: Python crashcourse and NumPy (2.5 hours)
+3.  Section 6 - 7: Pandas Exercises (2 hours)
+4.  Section 8 - 9: Matplotlib and Seaborn (2 hours)
+5.  Section 10 - 13: Data Visualization and Data Capstone Project (2 hours)
+6.  Section 13 - 15: Capstone, Machine learning, and Linear Regression (2 hours)
+7.  Section 16 - 19: Logistic Regression, K Neighboors, and Decision Trees (2 hours)
+8.  Section 20 - 23: Vectors, K means, and Recommender systems (2 hours)
+9.  Section 24 - 25: Natural language and Big Data (2 hours)
+10.  Section 25 - 26: Spark with Python and Neural Nets (2 hours)
+11.  Section 26 - 27: Deep Learning and Appendix (2 hours)
+12.  Reveiw weak topics and play with data analysis (2 hours)
