@@ -51,6 +51,10 @@ Week:
 
 ### Week 1
 
-Spent _ hours and completed Sections 1 - 3. The code written is as follows:
+Spent 2 hours and completed Sections 1 - 3. Here are some notes from the videos I took:
+
+Anaconda is a all-in-one program including python and libraries that will be used.
+Jupyter is a development invironment and display images and notes (IDE).
+I learned how to create and navigate through virtual environments using Command Prompt and also downloaded Anaconda with python.
 
 
