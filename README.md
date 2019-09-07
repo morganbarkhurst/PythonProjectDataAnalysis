@@ -53,8 +53,9 @@ Week:
 
 Spent 2 hours and completed Sections 1 - 3. Here are some notes from the videos I took:
 
-Anaconda is a all-in-one program including python and libraries that will be used.
-Jupyter is a development invironment and display images and notes (IDE).
-I learned how to create and navigate through virtual environments using Command Prompt and also downloaded Anaconda with python.
+-    Anaconda is a all-in-one program including python and libraries that will be used.
+-    Jupyter is a development invironment and display images and notes (IDE).
+-    I learned how to create and navigate through virtual environments using Command Prompt using conda create --name myenv. Then how to      activate and deactivate and list the environments.
+-    I also downloaded Anaconda with python.
 
 
