@@ -48,3 +48,9 @@ Week:
 10.  Section 25 - 26: Spark with Python and Neural Nets (2 hours)
 11.  Section 26 - 27: Deep Learning and Appendix (2 hours)
 12.  Reveiw weak topics and play with data analysis (2 hours)
+
+### Week 1
+
+Spent _ hours and completed Sections 1 - 3. The code written is as follows:
+
+
