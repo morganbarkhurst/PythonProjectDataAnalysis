@@ -53,4 +53,7 @@ Week:
 
 ### Week 1
 
+I learned about the importance of programming and touched on the world of hardware.
+
+### Week 2
 
