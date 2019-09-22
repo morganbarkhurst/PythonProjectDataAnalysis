@@ -1,18 +1,18 @@
 ## Personal Project Problem Statement
 
-Based on Python for Data Science and Machine Learning Bootcamp.
+Based on Python for Everybody Specialization
 
 ### Goals
 
--   Complete the Python for Data Science and Machine Learning Bootcamp.
+-   Complete the Python for Everybody Specialization
 
 ### Boundaries / Scope
 
--   Complete Section 1 through 27.
+-   Complete Chapter 1 - 10.
 
 ### Success criteria
 
--   Ability to speak about data analysis using pythoon knowledgably.
+-   Ability to speak about pythoon knowledgably.
 -   Weekly work log with screenshots and summaries to demonstrate activity.
 
 ### Constraints
@@ -23,7 +23,7 @@ Based on Python for Data Science and Machine Learning Bootcamp.
 
 -   The courses will be available for the duration of the semester.
 -   I will have access to all required software.
--   I will have enough background knowlege to successfully complete this bootcamp course.
+-   I will have enough background knowlege to successfully complete this course.
 
 ### Stakeholders
 
@@ -36,26 +36,19 @@ Based on Python for Data Science and Machine Learning Bootcamp.
 
 Week:
 
-1.  Section 1 - 3: Intro, Setup, and Jupyter (2 hours)
-2.  Section 4 - 5: Python crashcourse and NumPy (2.5 hours)
-3.  Section 6 - 7: Pandas Exercises (2 hours)
-4.  Section 8 - 9: Matplotlib and Seaborn (2 hours)
-5.  Section 10 - 13: Data Visualization and Data Capstone Project (2 hours)
-6.  Section 13 - 15: Capstone, Machine learning, and Linear Regression (2 hours)
-7.  Section 16 - 19: Logistic Regression, K Neighboors, and Decision Trees (2 hours)
-8.  Section 20 - 23: Vectors, K means, and Recommender systems (2 hours)
-9.  Section 24 - 25: Natural language and Big Data (2 hours)
-10.  Section 25 - 26: Spark with Python and Neural Nets (2 hours)
-11.  Section 26 - 27: Deep Learning and Appendix (2 hours)
-12.  Reveiw weak topics and play with data analysis (2 hours)
+  
+1.  Chapter One - Why we Program? (3 hours)
+2.  Installing and Using Python (3 hours)
+3. Chapter One: Why we Program (Continued) (2 hours)
+4. Chapter Two: Variables and Expressions (3 hours)
+5.  Chapter Three: Conditional Code (3 hours)
+6.  Chapter Five: Loops and Iteration (3 hours)
+7.  Chapter Four: Functions (2 hours)
+8.  Chapter Seven: Files (3 hours)
+9.  Chapter Eight: Lists (3 hours)
+10.  Chapter Six: Strings (3 hours)
+11.  Chapter Nine: Dictionaries (3 hours)
+12.  Chapter Ten: Tuples (2 hours)
 
-### Week 1
-
-Spent 2 hours and completed Sections 1 - 3. Here are some notes from the videos I took:
-
--    Anaconda is a all-in-one program including python and libraries that will be used.
--    Jupyter is a development invironment and display images and notes (IDE).
--    I learned how to create and navigate through virtual environments using Command Prompt using conda create --name myenv. Then how to      activate and deactivate and list the environments.
--    I also downloaded Anaconda with python.
 
 
