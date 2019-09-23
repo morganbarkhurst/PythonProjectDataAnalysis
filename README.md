@@ -58,3 +58,7 @@ I learned about the importance of programming and touched on the world of hardwa
 ### Week 2
 
 The course explained prefered IDEs and the difference between using just Command Prompt and pairing it with Atom
+
+### Week 3
+
+Began learning print function, then breifly overviewed if statements and while loops.
