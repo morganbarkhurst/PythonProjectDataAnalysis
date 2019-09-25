@@ -62,3 +62,9 @@ The course explained prefered IDEs and the difference between using just Command
 ### Week 3
 
 Began learning print function, then breifly overviewed if statements and while loops.
+
+### Week 4
+
+Working on the first real program, I heard about integers, float, and order of opperations.
+I learned about mnemonic variables as well.
+
