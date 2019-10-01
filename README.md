@@ -53,18 +53,18 @@ Week:
 
 ### Week 1
 
-I learned about the importance of programming and touched on the world of hardware.
+I learned about the importance of programming and touched on the world of hardware. It also was a great introuction to the course and set-up of the weekly activity. Watching the extra videos made it a more personal experience as I now know more about the teacher and coding around the world.
 
 ### Week 2
 
-The course explained prefered IDEs and the difference between using just Command Prompt and pairing it with Atom
+The course explained prefered IDEs and the difference between using just Command Prompt and pairing it with Atom. While I was already familiar with using Atom, it helped me know more about the IDE and other IDEs as well. I have been thinking about using other IDEs so this information was helpful.
 
 ### Week 3
 
-Began learning print function, then breifly overviewed if statements and while loops.
+Began learning print function, then breifly overviewed if statements and while loops. This was a review compared to what we are learning in class, but it was good to reinforce the material and look at some exercises.
 
 ### Week 4
 
 Working on the first real program, I heard about integers, float, and order of opperations.
-I learned about mnemonic variables as well.
+I learned about mnemonic variables as well and the names of variables that cannot be used. Words like 'for' and 'if' and 'in' have other meanings in python, so using them as variables would confuse the computer.
 
