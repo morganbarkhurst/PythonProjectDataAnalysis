@@ -68,3 +68,4 @@ Began learning print function, then breifly overviewed if statements and while l
 Working on the first real program, I heard about integers, float, and order of opperations.
 I learned about mnemonic variables and my biggest takeaway: the list of words that cannot be used as names of variables. Words like 'for' and 'if' and 'in' have other meanings in python, so using them as variables would confuse the computer.
 
+### Week 5
