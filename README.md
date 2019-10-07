@@ -66,6 +66,8 @@ Began learning print function, then breifly overviewed if statements and while l
 ### Week 4
 
 Working on the first real program, I heard about integers, float, and order of opperations.
-I learned about mnemonic variables and my biggest takeaway: the list of words that cannot be used as names of variables. Words like 'for' and 'if' and 'in' have other meanings in python, so using them as variables would confuse the computer.
+I learned about mnemonic variables and my biggest takeaway: the python keywords words that cannot be used as names of variables. Words like 'for' and 'if' and 'in' have other meanings in python, so using them as variables would confuse the computer.
 
 ### Week 5
+
+I learned about the differences between sequential and conditional code and nested if statements.  I got to see IPO charts for if, elif, and else functions. I also learned for the first time about try and accept, which is an interesting function that allows python to keep running the program, even if a certain line of code fails.
