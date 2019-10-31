@@ -71,3 +71,16 @@ I learned about mnemonic variables and my biggest takeaway: the python keywords 
 ### Week 5
 
 I learned about the differences between sequential and conditional code and nested if statements.  I got to see IPO charts for if, elif, and else functions. I also learned for the first time about try and accept, which is an interesting function that allows python to keep running the program, even if a certain line of code fails.
+
+### Week 6
+
+What is actually happening in the program when a function was used was interesting. I learned about arguments, alias, and calling or envoking a function. I also learned a parameter is a variable in the function definition. The arguments are used in the call. Return statement stops the function, goes to next line, and sends it back to the active code. This is called a "fruitful function."
+
+### Week 7
+
+
+
+### Week 8
+
+### Week 9
+
