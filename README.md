@@ -78,9 +78,11 @@ What is actually happening in the program when a function was used was interesti
 
 ### Week 7
 
-
+Interation variables are variables that change each time they go through a loop. They are often used in while loops, but you can also use break to stop a loop, but iteration variables are useful in while loops for a set number of rotations. Continue goes back to the top of the loop mid-loop. Definite loops are for loops because it is a set number of times, and while is indefinite.
 
 ### Week 8
+
+
 
 ### Week 9
 
