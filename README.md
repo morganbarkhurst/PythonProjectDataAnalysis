@@ -99,7 +99,7 @@ CH 9. Dictionaries store information under multiple names. The order does not ma
 
 ### Week 12
 
-CH 10.
+CH 10. Tuples look like lists, but have parentheses. Tuples are not mutable, meaning they cannot be altered, unlike lists. You can only count and index tuples, unlike lists. You can have tuples on both sides of the equal operator. Then I learned some useful applications of tuples within lists, and dictionaries.
 
 
 * Note that screen shot labels are based on chapter, not week.
