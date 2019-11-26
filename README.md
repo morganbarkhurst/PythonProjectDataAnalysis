@@ -86,12 +86,12 @@ CH 6. Interation variables are variables that change each time they go through a
 
 ### Week 9
 
-CH 7.  Continue goes back to the top of the loop mid-loop. Definite loops are for loops because it is a set number of times, and while is indefinite. I became more comfortable with loops, nested loops, and using try and except in the exercises.
+CH 7.  Continue goes back to the top of the loop mid-loop. Definite loops are for loops because it is a set number of times, and while is indefinite. I became more comfortable with loops, nested loops, and using try and except in the exercises. I learned about data configurations and where/how the data is stored, regarding to the CPU, secondary memory, main memory, and input/output.
 
 
 ### Week 10
 
-CH 8.
+CH 8. I learned more clearly what lists are, how they are written with brackets. And I learned how the index operator works and how they are listed from 0,1,2 etc. Strings are not mutable but lists are, and lowercase vs. uppercase are two different characters. "In" tells you if something is in a list.
 
 ### Week 11
 
@@ -100,3 +100,6 @@ CH 9.
 ### Week 12
 
 CH 10.
+
+
+* Note that screen shot labels are based on chapter, not week.
