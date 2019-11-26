@@ -95,7 +95,7 @@ CH 8. I learned more clearly what lists are, how they are written with brackets.
 
 ### Week 11
 
-CH 9.
+CH 9. Dictionaries store information under multiple names. The order does not matter in a dictionary, and they are indexed by their location tag. Default of a new key, they have a 0 value. One can have TWO iteration variables when dealing with dictionaries and for loops. 
 
 ### Week 12
 
